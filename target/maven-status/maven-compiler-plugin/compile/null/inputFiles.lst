@@ -1,0 +1,13 @@
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\persistence\LessonRepository.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\domain\TimeTable.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\rest\TimeTableResource.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\domain\Room.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\persistence\RoomRepository.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\rest\RoomResource.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\rest\TimeslotResource.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\bootstrap\DataGenerator.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\persistence\TimeslotRepository.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\solver\TimeTableConstraintProvider.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\domain\Lesson.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\domain\Timeslot.java
+D:\Time table\school-timetabling\src\main\java\org\acme\schooltimetabling\rest\LessonResource.java
